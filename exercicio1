@@ -5,7 +5,7 @@ ela vai permitir que apenas as pessoas autorizadas t~em acessos aos dados sencí
 2. Sim, existe risco de alteração na transmissão, neste caso o principio que está em risco 
 é a integridade , porque ela mantém a informação inalterrada e completa.
 
-3. A indentificação que está em risco é a disponibilidade. Para melhorar a segurança
+3. O princio  que está em risco é a disponibilidade. Para melhorar a segurança
 sugeria que utiliza-se o principio da autenticação,
 
 4. O principio que estaria em risco seria a irretratabilidade.
@@ -13,3 +13,15 @@ sugeria que utiliza-se o principio da autenticação,
 5. O principio que estaria em risco seria a conformidade, porque ela 
 assegura que as práticas de segurança estão de acordo com a lesgilação, 
 normas e boas praticas aplicáveis.
+
+Correção
+1. Oprincipio que está em risco é a confidencialidade, proponho que eles 
+utilizem o sitema de de autenticação  de Multifator (MFA).
+
+2. Proponho que utilize a integridade para ajudar na segurança.
+
+3.A solução para resolvero problema seria a escabilidade, redundância 
+
+4. Para a solução seria apresentar os logs.
+
+5. Para resolução seria aplicar o RGPD e auditoria de segurança.
