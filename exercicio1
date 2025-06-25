@@ -1,0 +1,15 @@
+1- O Príncipio que está em risco é a autenticidade, para uma medida de 
+segurança proponho que eles utilizem o príncipio de confidencialidade porque 
+ela vai permitir que apenas as pessoas autorizadas t~em acessos aos dados sencíveis.
+
+2. Sim, existe risco de alteração na transmissão, neste caso o principio que está em risco 
+é a integridade , porque ela mantém a informação inalterrada e completa.
+
+3. A indentificação que está em risco é a disponibilidade. Para melhorar a segurança
+sugeria que utiliza-se o principio da autenticação,
+
+4. O principio que estaria em risco seria a irretratabilidade.
+
+5. O principio que estaria em risco seria a conformidade, porque ela 
+assegura que as práticas de segurança estão de acordo com a lesgilação, 
+normas e boas praticas aplicáveis.
